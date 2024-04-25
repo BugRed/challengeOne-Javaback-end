@@ -1,13 +1,44 @@
-Conversor de moedas
-Este é um projeto desenvolvido durante o curso de Java ofertado pela Alura para as turmas da Oracle ONE.
+<h1 align="center"> Conversor de Moedas - Java </h1>
 
-O projeto do conversor de moedas utiliza a API externa de conversão de moedas do ExchangeRate-API. Ele permite que o usuário converta valores de uma moeda para outra selecionada.
+<p align="center">
+ Este é um projeto desenvolvido durante o curso de Java ofertado pela Alura para as turmas da Oracle ONE.
+</p>
 
-Tecnologias utilizadas
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-certificado"> Certificado</a>
+</p>
+
+<br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
 Java
 Google Gson
-Funcionalidades
+
+## Funcionalidades
+
 Conversão de moedas entre diferentes tipos de moedas.
 Suporte para uma ampla variedade de moedas.
 Interface simples e interativa com o usuário através do terminal.
 Criação de histórico das conversões realizadas.
+
+## 💻 Projeto
+
+
+## :heavy_check_mark: Certificado
+
+Certificado adquirido através do curso ONE parceria entre ORACLE e ALURA Acesse o [Certificado]().
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Yahto Dev :maple_leaf:
